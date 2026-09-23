@@ -1,5 +1,8 @@
 # 📈 Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
+![Painel do Simulador](Capturar1.PNG)
+
+
 Desafio de projeto desenvolvido para a plataforma **DIO (Digital Innovation One)**, aplicando conceitos de Excel para modelagem financeira e automação de simulações de investimentos.
 
 ## 🎯 Objetivo do Projeto
